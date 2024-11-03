@@ -8,3 +8,7 @@ This repository contains our submission for Homework 2 of the Applied Data Minin
 - `functions.py`: Python script defining helper functions used in `main.ipynb`. This file includes custom functions for data processing, analysis, and visualization tasks as required by the assignment.
 - `README.md`: This README file, describing the contents of the repository
 
+## Troubleshooting
+
+If you encounter any issues visualizing `main.ipynb` on GitHub, click on [nbviewer](https://nbviewer.org/github/nudric25/ADM-HM2/blob/main/main.ipynb) .
+
